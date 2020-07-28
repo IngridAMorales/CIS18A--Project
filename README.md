@@ -2,7 +2,8 @@
 Final Class Project - CoffeeShop 
 
 Ingrid Morales 
-Date: 07/30/2020
+Date: 07/28/2020
+Version 1
 Cozee Coffee
 
 In Project Part 1, you will create a program for a type of small businesses. The program should incorporate all required elements as listed and described in Chapters 1 – 9. This program is intended to improve business process and operation flow. 
